@@ -1,3 +1,3 @@
 
-## this is a secondary text
-### this is a tertiary text 
+## this is a secondary heading
+### this is a tertiary heading
